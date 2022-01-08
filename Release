@@ -2,9 +2,9 @@ Architectures: iphoneos-arm
 Codename: iphoneos-arm64
 Components: main
 Date: Sat, 08 Jan 2022 19:18:23 +0000
-Description: Turannul's iOS Repository.
-Label: Turannul's Repo 
-Origin: Turannul's Repo 
+Description: Ömer Store's iOS Repository.
+Label: Ömer Store's Repo 
+Origin: Ömer Store's Repo 
 Suite: stable
 Version: 1.0-1
 MD5Sum:
