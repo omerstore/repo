@@ -1,0 +1,9 @@
+Package:xyz.turannuln.unityfpsindicator
+Name: FPSIndicator TR
+Depends: mobilesubstrate,applist,org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Oyun-içi FPS göstergesi
+Maintainer: Turan <t.me/TuranUl>
+Author: Brend0n <brendonjkding@126.com>
+Section: Tweaks
+Version: 0.0.3r4

@@ -1,0 +1,11 @@
+Package: xyz.turannul.requiredpackages
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Scripts
+Depends: com.trappledestek.newterm2, trappl.filza, org.coolstar.sileo, u.blanxd.opensshport, com.samgisaninja.successioncli, cydia, dpkg, apt, com.trappledestek.reprovision, com.muirey03.cr4shed
+Priority: required
+Description: Sorun çözmek için kullanılan tweaklar bütünü, Otomatik kurulum paketi. Packix | BigBoss | Chariz | Procursus veya Unc0&Checkra1n repolarını gerektirir. 
+Maintainer: Turann
+Author: Turann
+Depiction: Sorun çözmek için kullanılan tweaklar bütünü, Otomatik kurulum paketi. Packix | BigBoss | Chariz | Procursus veya Unc0&Checkra1n repolarını gerektirir. 
+Name: Acil durum çekici

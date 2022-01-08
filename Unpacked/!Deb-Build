@@ -1,0 +1,10 @@
+#! /opt/procursus/bin/bash
+
+echo "Klasörü buraya sürükle"
+read filepath 
+
+echo "$filepath"
+mv $filepath/control $filepath/DEBIAN
+echo "Dosya izinleri ve dpkg-deb için sudo parolanız gereklidir."
+sudo chmod -R 0755 $filepath
+sudo dpkg-deb --build $filepath
