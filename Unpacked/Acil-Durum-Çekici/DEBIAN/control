@@ -1,4 +1,4 @@
-Package: xyz.omerstore.requiredpackages
+Package: xyz.turannul.requiredpackages
 Architecture: iphoneos-arm
 Version: 0.0.4
 Section: Scripts
