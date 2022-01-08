@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://turannul.github.io/repo/assets/Banners/notspecified.png",
+        "url": "https://omerstore.github.io/repo/assets/Banners/notspecified.png",
         "title": "Media Widget",
         "package": "xyz.turannul.mediawidget",
         "hideShadow": false
@@ -17,7 +17,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://turannul.github.io/repo/assets/Banners/notspecified.png",
+        "url": "https://omerstore.github.io/repo/assets/Banners/notspecified.png",
         "title": "App Store++",
         "package": "xyz.trappledestek.appstoreplusplus-iOS12",
         "hideShadow": false
@@ -30,7 +30,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://turannul.github.io/repo/assets/Banners/notspecified.png",
+        "url": "https://omerstore.github.io/repo/assets/Banners/notspecified.png",
         "title": "Upcoming!",
         "package": "",
         "hideShadow": false
@@ -43,7 +43,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://turannul.github.io/repo/assets/Banners/notspecified.png",
+        "url": "https://omerstore.github.io/repo/assets/Banners/notspecified.png",
         "title": "Upcoming!",
         "package": "",
         "hideShadow": false
