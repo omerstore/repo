@@ -16,7 +16,7 @@ jobs:
           ls ${{ github.workspace }}
       - run: chmod +x ./updaterepo.sh
       - run: ./updaterepo.sh
-      - run: git config --global user.email "turannul000@gmail.com"
+      - run: git config --global user.email "deneme@gmail.com"
       - run: git config --global user.name "Github-Actions"
       - run: git add "${{ github.workspace }}"
       - run: git commit -a -m "Repo Güncellendi."
